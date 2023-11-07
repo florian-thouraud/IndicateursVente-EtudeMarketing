@@ -5,9 +5,9 @@ Dans un scénario fictif, une librairie ayant lancé son site internet depuis pe
 
 Il s'agissait de produire :
 
-    différents indicateurs de vente (quels produits et quelles catégories se vendaient bien, comment les ventes avaient évolué dans le temps, quels étaient les tops et les flops).
+- différents indicateurs de vente (quels produits et quelles catégories se vendaient bien, comment les ventes avaient évolué dans le temps, quels étaient les tops et les flops).
 
-    une étude marketing : identifier les profil de clients, et leurs comportement d'achat (lien entre âge, sexe, et le nombre de produits achetés, le montant du panier moyen, la catégorie de produit achetés).
+- une étude marketing : identifier les profil de clients, et leurs comportement d'achat (lien entre âge, sexe, et le nombre de produits achetés, le montant du panier moyen, la catégorie de produit achetés).
 
 La démarche impliquait, entre autres, l'utilisation d'une courbe de Lorenz, d'un test Khi-deux de Pearson, d'un test de Spearman, d'un test de Mann-Whitney U.
 
