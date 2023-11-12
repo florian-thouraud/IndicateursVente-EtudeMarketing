@@ -1,5 +1,9 @@
-# IndicateursVente-EtudeMarketing
-Ce notebook a été réalisé dans le cadre de la formation diplômante "Data Analyst" proposée par OpenClassRooms.
+# Indicateurs-de-Vente-&-Etude-Marketing-d-une-librairie-en-ligne 📚
+
+🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
+🛠 Mots clés : Python, courbe de Lorenz, test Khi-deux de Pearson, tests statistiques, test de Spearman, test de Mann-Whitney U.
+
+---
 
 Dans un scénario fictif, une librairie ayant lancé son site internet depuis peu fait appel à nos services pour réaliser une étude des données de son site web.
 
@@ -9,7 +13,8 @@ Il s'agissait de produire :
 
 - une étude marketing : identifier les profil de clients, et leurs comportement d'achat (lien entre âge, sexe, et le nombre de produits achetés, le montant du panier moyen, la catégorie de produit achetés).
 
-La démarche impliquait, entre autres, l'utilisation d'une courbe de Lorenz, d'un test Khi-deux de Pearson, d'un test de Spearman, d'un test de Mann-Whitney U.
 
-N'hésitez pas à revenir vers moi si vous souhaitez des précisions !
+---
 
+👋 Merci de votre lecture !<br>
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à FlorianData@pm.me
