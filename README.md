@@ -1,4 +1,8 @@
 # Indicateurs de Vente & Étude Marketing d'une librairie en ligne 📚
+<br>
+
+**English version below**
+<br>
 
 🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
 🛠 Mots clés : Python, courbe de Lorenz, test Khi-deux de Pearson, tests statistiques, test de Spearman, test de Mann-Whitney U.
