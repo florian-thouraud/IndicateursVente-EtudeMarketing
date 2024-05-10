@@ -24,7 +24,7 @@ Il s'agissait de produire :
 ## ENGLISH VERSION : Sales & Marketing Study indicators for an online bookshop 📚
 
 🎓 Project carried out as part of the OpenClassRooms "Data Analyst" diploma course.<br>
-🛠 Key words : Python, Lorenz curve, Pearson Chi-square test, statistical tests, Spearman test, Mann-Whitney test.
+🛠 Key words : Python, Lorenz curve, Pearson Chi-square test, statistical tests, Spearman test, Mann-Whitney U test.
 
 ---
 
